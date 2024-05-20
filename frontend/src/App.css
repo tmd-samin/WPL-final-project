@@ -1,0 +1,7 @@
+body{
+    direction: rtl;
+}
+
+#password{
+    color: inherit;
+}

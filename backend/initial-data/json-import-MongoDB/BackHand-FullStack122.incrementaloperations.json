@@ -1,0 +1,432 @@
+[{
+  "_id": {
+    "$oid": "663a8e47272fbf8ab99593a8"
+  },
+  "nameAgent": "regular user",
+  "numberCalls": 24,
+  "productivity": "3.44",
+  "tvDisconnection": 2,
+  "fiberDisconnection": 3,
+  "simurFiber": "87.50%",
+  "simurTV": "91.67%",
+  "sellerFiber": 2,
+  "sellerTV": 3,
+  "easyMesh": 4,
+  "upgradeProgress": 3,
+  "satisfaction": "84%",
+  "targets": 0,
+  "bizNumber": 132702992,
+  "teamName": "iron",
+  "user_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "createTime": {
+    "$date": "2024-04-07T20:25:05.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a8f84d6d849d508c85c12"
+  },
+  "nameAgent": "regular user",
+  "numberCalls": 25,
+  "productivity": "4.22",
+  "tvDisconnection": 3,
+  "fiberDisconnection": 2,
+  "simurFiber": "92.00%",
+  "simurTV": "88.00%",
+  "sellerFiber": 0,
+  "sellerTV": 0,
+  "easyMesh": 0,
+  "upgradeProgress": 0,
+  "satisfaction": "84%",
+  "targets": 0,
+  "bizNumber": 535403632,
+  "teamName": "iron",
+  "user_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "createTime": {
+    "$date": "2024-04-02T20:29:58.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a9091d6d849d508c85c32"
+  },
+  "nameAgent": "יוסי לוי",
+  "numberCalls": 23,
+  "productivity": "4.22",
+  "tvDisconnection": 3,
+  "fiberDisconnection": 2,
+  "simurFiber": "91.30%",
+  "simurTV": "86.96%",
+  "sellerFiber": 0,
+  "sellerTV": 0,
+  "easyMesh": 0,
+  "upgradeProgress": 0,
+  "satisfaction": "65%",
+  "targets": 0,
+  "bizNumber": 299932562,
+  "teamName": "iron",
+  "user_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "createTime": {
+    "$date": "2024-04-07T20:29:58.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a91d3ff6a56e73b1a878e"
+  },
+  "nameAgent": "יוסי לוי",
+  "numberCalls": 43,
+  "productivity": "4.22",
+  "tvDisconnection": 4,
+  "fiberDisconnection": 3,
+  "simurFiber": "93.02%",
+  "simurTV": "90.70%",
+  "sellerFiber": 3,
+  "sellerTV": 1,
+  "easyMesh": 3,
+  "upgradeProgress": 1,
+  "satisfaction": "84%",
+  "targets": 0,
+  "bizNumber": 449570759,
+  "teamName": "iron",
+  "user_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "createTime": {
+    "$date": "2024-04-02T20:39:01.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a9cc2ff6a56e73b1a87d2"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "numberCalls": 32,
+  "productivity": "4.58",
+  "tvDisconnection": 3,
+  "fiberDisconnection": 1,
+  "simurFiber": "96.88%",
+  "simurTV": "90.63%",
+  "sellerFiber": 2,
+  "sellerTV": 3,
+  "easyMesh": 3,
+  "upgradeProgress": 2,
+  "satisfaction": "76%",
+  "targets": 0,
+  "bizNumber": 243446398,
+  "teamName": "toy",
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-04-07T20:39:01.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a9e191694c48586f5081c"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "numberCalls": 25,
+  "productivity": "4.22",
+  "tvDisconnection": 1,
+  "fiberDisconnection": 1,
+  "simurFiber": "96.00%",
+  "simurTV": "96.00%",
+  "sellerFiber": 2,
+  "sellerTV": 1,
+  "easyMesh": 0,
+  "upgradeProgress": 1,
+  "satisfaction": "65%",
+  "targets": 0,
+  "bizNumber": 195935028,
+  "teamName": "toy",
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-04-02T21:32:07.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa0e117e861bcf6ff9807"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "numberCalls": 16,
+  "productivity": "4.15",
+  "tvDisconnection": 2,
+  "fiberDisconnection": 0,
+  "simurFiber": "100%",
+  "simurTV": "87.50%",
+  "sellerFiber": 2,
+  "sellerTV": 1,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "satisfaction": "86%",
+  "targets": 0,
+  "bizNumber": 148940968,
+  "teamName": "toy",
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-05-02T21:44:25.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa1971fd83294d99c3571"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "numberCalls": 19,
+  "productivity": "4.23",
+  "tvDisconnection": 3,
+  "fiberDisconnection": 2,
+  "simurFiber": "89.47%",
+  "simurTV": "84.21%",
+  "sellerFiber": 3,
+  "sellerTV": 2,
+  "easyMesh": 3,
+  "upgradeProgress": 2,
+  "satisfaction": "97%",
+  "targets": 0,
+  "bizNumber": 152371738,
+  "teamName": "toy",
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-05-05T21:47:44.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa3a21fd83294d99c35bc"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "numberCalls": 15,
+  "productivity": "4.22",
+  "tvDisconnection": 3,
+  "fiberDisconnection": 2,
+  "simurFiber": "86.67%",
+  "simurTV": "80.00%",
+  "sellerFiber": 5,
+  "sellerTV": 4,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "satisfaction": "84%",
+  "targets": 0,
+  "bizNumber": 911214389,
+  "teamName": "toy",
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-04-07T21:47:44.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa43625a48d2fd69dc5dd"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "numberCalls": 22,
+  "productivity": "3.88",
+  "tvDisconnection": 3,
+  "fiberDisconnection": 1,
+  "simurFiber": "95.45%",
+  "simurTV": "86.36%",
+  "sellerFiber": 1,
+  "sellerTV": 0,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "satisfaction": "76%",
+  "targets": 0,
+  "bizNumber": 468878048,
+  "teamName": "toy",
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-04-02T21:58:56.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa503162eaa0468f770d7"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "numberCalls": 25,
+  "productivity": "4.22",
+  "tvDisconnection": 3,
+  "fiberDisconnection": 3,
+  "simurFiber": "88.00%",
+  "simurTV": "88.00%",
+  "sellerFiber": 1,
+  "sellerTV": 2,
+  "easyMesh": 2,
+  "upgradeProgress": 0,
+  "satisfaction": "76%",
+  "targets": 0,
+  "bizNumber": 504111009,
+  "teamName": "toy",
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-05-02T22:02:29.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa5810603be3d2d46e96b"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "numberCalls": 16,
+  "productivity": "4.33",
+  "tvDisconnection": 2,
+  "fiberDisconnection": 3,
+  "simurFiber": "81.25%",
+  "simurTV": "87.50%",
+  "sellerFiber": 3,
+  "sellerTV": 1,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "satisfaction": "65%",
+  "targets": 0,
+  "bizNumber": 557309116,
+  "teamName": "toy",
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-05-05T22:04:20.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa6f5d07f0ee131cd47b1"
+  },
+  "nameAgent": "regular user",
+  "numberCalls": 14,
+  "productivity": "3.22",
+  "tvDisconnection": 4,
+  "fiberDisconnection": 2,
+  "simurFiber": "85.71%",
+  "simurTV": "71.43%",
+  "sellerFiber": 3,
+  "sellerTV": 3,
+  "easyMesh": 2,
+  "upgradeProgress": 0,
+  "satisfaction": "76%",
+  "targets": 0,
+  "bizNumber": 174812174,
+  "teamName": "iron",
+  "user_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "createTime": {
+    "$date": "2024-05-02T22:06:35.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa7c92cf7d088e55ecec2"
+  },
+  "nameAgent": "regular user",
+  "numberCalls": 16,
+  "productivity": "4.55",
+  "tvDisconnection": 2,
+  "fiberDisconnection": 2,
+  "simurFiber": "87.50%",
+  "simurTV": "87.50%",
+  "sellerFiber": 2,
+  "sellerTV": 1,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "satisfaction": "64%",
+  "targets": 0,
+  "bizNumber": 530733480,
+  "teamName": "iron",
+  "user_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "createTime": {
+    "$date": "2024-05-05T22:14:08.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa968dbaf6f4f12191a9a"
+  },
+  "nameAgent": "יוסי לוי",
+  "numberCalls": 17,
+  "productivity": "3.22",
+  "tvDisconnection": 3,
+  "fiberDisconnection": 2,
+  "simurFiber": "88.24%",
+  "simurTV": "82.35%",
+  "sellerFiber": 3,
+  "sellerTV": 4,
+  "easyMesh": 1,
+  "upgradeProgress": 2,
+  "satisfaction": "75%",
+  "targets": 0,
+  "bizNumber": 218505336,
+  "teamName": "iron",
+  "user_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "createTime": {
+    "$date": "2024-05-05T22:16:04.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aaa1a5c69325d132f6ffe"
+  },
+  "nameAgent": "יוסי לוי",
+  "numberCalls": 14,
+  "productivity": "3.22",
+  "tvDisconnection": 3,
+  "fiberDisconnection": 2,
+  "simurFiber": "85.71%",
+  "simurTV": "78.57%",
+  "sellerFiber": 3,
+  "sellerTV": 2,
+  "easyMesh": 2,
+  "upgradeProgress": 2,
+  "satisfaction": "65%",
+  "targets": 0,
+  "bizNumber": 274605806,
+  "teamName": "iron",
+  "user_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "createTime": {
+    "$date": "2024-05-02T22:24:05.677Z"
+  },
+  "__v": 0
+}]

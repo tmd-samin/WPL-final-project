@@ -1,0 +1,588 @@
+[{
+  "_id": {
+    "$oid": "663a8e5a272fbf8ab99593b4"
+  },
+  "nameAgent": "regular user",
+  "teamName": "iron",
+  "sellerFiber": 1,
+  "sellerTV": 2,
+  "easyMesh": 3,
+  "upgradeProgress": 2,
+  "targets": 2,
+  "customerCode": "515551551",
+  "bizNumber": 640255799,
+  "user_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "createTime": {
+    "$date": "2024-04-07T20:25:05.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a8e68272fbf8ab99593c0"
+  },
+  "nameAgent": "regular user",
+  "teamName": "iron",
+  "sellerFiber": 1,
+  "sellerTV": 1,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "515151515",
+  "bizNumber": 108368446,
+  "user_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "createTime": {
+    "$date": "2024-04-07T20:25:05.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a91ecff6a56e73b1a879a"
+  },
+  "nameAgent": "יוסי לוי",
+  "teamName": "iron",
+  "sellerFiber": 1,
+  "sellerTV": 1,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "548881841",
+  "bizNumber": 261360442,
+  "user_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "createTime": {
+    "$date": "2024-04-02T20:39:01.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a91f8ff6a56e73b1a87a5"
+  },
+  "nameAgent": "יוסי לוי",
+  "teamName": "iron",
+  "sellerFiber": 2,
+  "sellerTV": 0,
+  "easyMesh": 2,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "581884881",
+  "bizNumber": 388541865,
+  "user_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "createTime": {
+    "$date": "2024-04-02T20:39:01.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a9cf1ff6a56e73b1a87dd"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "teamName": "toy",
+  "sellerFiber": 1,
+  "sellerTV": 2,
+  "easyMesh": 2,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "582215555",
+  "bizNumber": 416395643,
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-04-07T20:39:01.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a9cfcff6a56e73b1a87ea"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "teamName": "toy",
+  "sellerFiber": 1,
+  "sellerTV": 1,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "555155515",
+  "bizNumber": 307282753,
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-04-07T20:39:01.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a9e301694c48586f50828"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "teamName": "toy",
+  "sellerFiber": 1,
+  "sellerTV": 0,
+  "easyMesh": 0,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "551555155",
+  "bizNumber": 906915657,
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-04-02T21:32:07.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a9e771694c48586f50834"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "teamName": "toy",
+  "sellerFiber": 1,
+  "sellerTV": 1,
+  "easyMesh": 0,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "515515111",
+  "bizNumber": 666083471,
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-04-02T21:32:07.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa10417e861bcf6ff9813"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "teamName": "toy",
+  "sellerFiber": 1,
+  "sellerTV": 1,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "884888885",
+  "bizNumber": 645401605,
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-05-02T21:44:25.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa11217e861bcf6ff981f"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "teamName": "toy",
+  "sellerFiber": 1,
+  "sellerTV": 0,
+  "easyMesh": 0,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "525151555",
+  "bizNumber": 154540209,
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-05-02T21:44:25.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa1a61fd83294d99c357d"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "teamName": "toy",
+  "sellerFiber": 2,
+  "sellerTV": 2,
+  "easyMesh": 2,
+  "upgradeProgress": 2,
+  "targets": 2,
+  "customerCode": "555155151",
+  "bizNumber": 332461456,
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-05-05T21:47:44.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa1b61fd83294d99c3589"
+  },
+  "nameAgent": "toyAgent1 agent",
+  "teamName": "toy",
+  "sellerFiber": 1,
+  "sellerTV": 0,
+  "easyMesh": 1,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "515511512",
+  "bizNumber": 570856512,
+  "user_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "createTime": {
+    "$date": "2024-05-05T21:47:44.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa3ac1fd83294d99c35c7"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "teamName": "toy",
+  "sellerFiber": 2,
+  "sellerTV": 2,
+  "easyMesh": 0,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "515881881",
+  "bizNumber": 216174439,
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-04-07T21:47:44.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa3b61fd83294d99c35d3"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "teamName": "toy",
+  "sellerFiber": 3,
+  "sellerTV": 2,
+  "easyMesh": 1,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "155818818",
+  "bizNumber": 479694438,
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-04-07T21:47:44.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa44525a48d2fd69dc5e9"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "teamName": "toy",
+  "sellerFiber": 0,
+  "sellerTV": 0,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "584888818",
+  "bizNumber": 368744117,
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-04-02T21:58:56.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa45025a48d2fd69dc5f5"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "teamName": "toy",
+  "sellerFiber": 1,
+  "sellerTV": 0,
+  "easyMesh": 0,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "515515511",
+  "bizNumber": 875638839,
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-04-02T21:58:56.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa50c162eaa0468f770e2"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "teamName": "toy",
+  "sellerFiber": 1,
+  "sellerTV": 0,
+  "easyMesh": 0,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "511555151",
+  "bizNumber": 245945609,
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-05-02T22:02:29.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa517162eaa0468f770ef"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "teamName": "toy",
+  "sellerFiber": 0,
+  "sellerTV": 2,
+  "easyMesh": 2,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "515511551",
+  "bizNumber": 289104579,
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-05-02T22:02:29.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa58c0603be3d2d46e977"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "teamName": "toy",
+  "sellerFiber": 2,
+  "sellerTV": 0,
+  "easyMesh": 0,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "514155511",
+  "bizNumber": 538047510,
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-05-05T22:04:20.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa59f0603be3d2d46e982"
+  },
+  "nameAgent": "toyAgent2 agent",
+  "teamName": "toy",
+  "sellerFiber": 1,
+  "sellerTV": 1,
+  "easyMesh": 1,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "515155515",
+  "bizNumber": 996339535,
+  "user_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "createTime": {
+    "$date": "2024-05-05T22:04:20.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa70cd07f0ee131cd47bd"
+  },
+  "nameAgent": "regular user",
+  "teamName": "iron",
+  "sellerFiber": 2,
+  "sellerTV": 2,
+  "easyMesh": 1,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "166166515",
+  "bizNumber": 985512760,
+  "user_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "createTime": {
+    "$date": "2024-05-02T22:06:35.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa716d07f0ee131cd47c9"
+  },
+  "nameAgent": "regular user",
+  "teamName": "iron",
+  "sellerFiber": 1,
+  "sellerTV": 1,
+  "easyMesh": 1,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "561455515",
+  "bizNumber": 225573923,
+  "user_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "createTime": {
+    "$date": "2024-05-02T22:06:35.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa7d72cf7d088e55ecece"
+  },
+  "nameAgent": "regular user",
+  "teamName": "iron",
+  "sellerFiber": 1,
+  "sellerTV": 1,
+  "easyMesh": 1,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "151891555",
+  "bizNumber": 657021397,
+  "user_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "createTime": {
+    "$date": "2024-05-05T22:14:08.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa7e32cf7d088e55eced9"
+  },
+  "nameAgent": "regular user",
+  "teamName": "iron",
+  "sellerFiber": 1,
+  "sellerTV": 0,
+  "easyMesh": 0,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "515511551",
+  "bizNumber": 967890532,
+  "user_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "createTime": {
+    "$date": "2024-05-05T22:14:08.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa974dbaf6f4f12191aa5"
+  },
+  "nameAgent": "יוסי לוי",
+  "teamName": "iron",
+  "sellerFiber": 2,
+  "sellerTV": 2,
+  "easyMesh": 0,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "616661661",
+  "bizNumber": 939490098,
+  "user_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "createTime": {
+    "$date": "2024-05-05T22:16:04.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aa984dbaf6f4f12191ab2"
+  },
+  "nameAgent": "יוסי לוי",
+  "teamName": "iron",
+  "sellerFiber": 1,
+  "sellerTV": 2,
+  "easyMesh": 1,
+  "upgradeProgress": 1,
+  "targets": 2,
+  "customerCode": "161666151",
+  "bizNumber": 121452499,
+  "user_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "createTime": {
+    "$date": "2024-05-05T22:16:04.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aaa285c69325d132f700a"
+  },
+  "nameAgent": "יוסי לוי",
+  "teamName": "iron",
+  "sellerFiber": 2,
+  "sellerTV": 2,
+  "easyMesh": 2,
+  "upgradeProgress": 2,
+  "targets": 2,
+  "customerCode": "561551551",
+  "bizNumber": 821809463,
+  "user_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "createTime": {
+    "$date": "2024-05-02T22:24:05.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663aaa315c69325d132f7016"
+  },
+  "nameAgent": "יוסי לוי",
+  "teamName": "iron",
+  "sellerFiber": 1,
+  "sellerTV": 0,
+  "easyMesh": 0,
+  "upgradeProgress": 0,
+  "targets": 2,
+  "customerCode": "165166116",
+  "bizNumber": 372414770,
+  "user_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "createTime": {
+    "$date": "2024-05-02T22:24:05.679Z"
+  },
+  "__v": 0
+}]

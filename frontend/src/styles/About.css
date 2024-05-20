@@ -1,0 +1,45 @@
+.containerAbout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid #7a0d3ae1;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 1rem;
+  margin: 5px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.containerAbout h1 {
+  text-align: center;
+  font-size: 2rem;
+  margin: 10px;
+}
+
+.containerAboutText {
+  text-align: center;
+  font-size: 1rem;
+  margin: 10px;
+}
+
+.whoCan {
+  text-align: center;
+  font-size: 1rem;
+  margin: 10px;
+}
+
+.containerAbout ul {
+  margin: 10px;
+}
+
+.containerAbout h2 {
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 10px;
+}
+.underlineAbout {
+  height: 2px;
+  margin-bottom: 20px;
+  width:auto;
+}

@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "663a8e21272fbf8ab9959395"
+  },
+  "name": {
+    "first": "regular",
+    "middle": "no mast",
+    "last": "user",
+    "_id": {
+      "$oid": "663a8e21272fbf8ab9959396"
+    }
+  },
+  "IsBusiness": false,
+  "isAdmin": false,
+  "serviceDepartment": false,
+  "conservationDepartment": true,
+  "teamName": "iron",
+  "phone": "0500000030",
+  "email": "regular@gmail.com",
+  "password": "$2b$10$hYzt6UQRjny/qZCbdXSG/uYCbCYu6FIeWWkfnVH.m2eknRuBpufdO",
+  "createTime": {
+    "$date": "2024-05-07T20:25:05.454Z"
+  },
+  "loginAttempts": 0,
+  "__v": 0,
+  "lockUntil": null
+},
+{
+  "_id": {
+    "$oid": "663a8e21272fbf8ab9959399"
+  },
+  "name": {
+    "first": "business",
+    "middle": "no mast",
+    "last": "user",
+    "_id": {
+      "$oid": "663a8e21272fbf8ab995939a"
+    }
+  },
+  "IsBusiness": true,
+  "isAdmin": false,
+  "serviceDepartment": false,
+  "conservationDepartment": true,
+  "teamName": "iron",
+  "phone": "0500000020",
+  "email": "business@gmail.com",
+  "password": "$2b$10$g0sEfUWOK1.uIME3OiWOUeZP6cg/M0KdW6mGUlT5RF1xnh7IgTHY.",
+  "createTime": {
+    "$date": "2024-05-07T20:25:05.454Z"
+  },
+  "loginAttempts": 0,
+  "__v": 0,
+  "lockUntil": null
+},
+{
+  "_id": {
+    "$oid": "663a8e21272fbf8ab995939c"
+  },
+  "name": {
+    "first": "admin",
+    "middle": "no mast",
+    "last": "user",
+    "_id": {
+      "$oid": "663a8e21272fbf8ab995939d"
+    }
+  },
+  "IsBusiness": true,
+  "isAdmin": true,
+  "serviceDepartment": true,
+  "conservationDepartment": true,
+  "teamName": "iron",
+  "phone": "0500000010",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$o9KMF3bXMxBjr/X1tXEOde56wMgEnIQY7PbHSSysUc9xhA9d8TYJm",
+  "createTime": {
+    "$date": "2024-05-07T20:25:05.454Z"
+  },
+  "loginAttempts": 0,
+  "__v": 0,
+  "lockUntil": null
+},
+{
+  "_id": {
+    "$oid": "663a9076d6d849d508c85c26"
+  },
+  "name": {
+    "first": "יוסי",
+    "middle": "",
+    "last": "לוי",
+    "_id": {
+      "$oid": "663a9076d6d849d508c85c27"
+    }
+  },
+  "IsBusiness": false,
+  "isAdmin": false,
+  "serviceDepartment": false,
+  "conservationDepartment": true,
+  "teamName": "iron",
+  "phone": "0527747474",
+  "email": "ben@ben.com",
+  "password": "$2b$10$5LY4Xpezph/We..KuIJG2.VXKUEAf5lcvDuytgeGdji3q0UsPJiYm",
+  "createTime": {
+    "$date": "2024-05-07T20:29:58.006Z"
+  },
+  "loginAttempts": 0,
+  "__v": 0,
+  "lockUntil": null
+},
+{
+  "_id": {
+    "$oid": "663a9b5fff6a56e73b1a87c0"
+  },
+  "name": {
+    "first": "leaderToy",
+    "middle": "",
+    "last": "team",
+    "_id": {
+      "$oid": "663a9b5fff6a56e73b1a87c1"
+    }
+  },
+  "IsBusiness": true,
+  "isAdmin": false,
+  "serviceDepartment": false,
+  "conservationDepartment": true,
+  "teamName": "toy",
+  "phone": "0524774774",
+  "email": "leadertoy@gmail.com",
+  "password": "$2b$10$aFto602m72qXlEK6yy6OweODusD9G8ytaItotu0AaeZm8uKbL8bGu",
+  "createTime": {
+    "$date": "2024-05-07T20:39:01.707Z"
+  },
+  "loginAttempts": 0,
+  "__v": 0,
+  "lockUntil": null
+},
+{
+  "_id": {
+    "$oid": "663a9c1cff6a56e73b1a87c3"
+  },
+  "name": {
+    "first": "toyAgent1",
+    "middle": "",
+    "last": "agent",
+    "_id": {
+      "$oid": "663a9c1cff6a56e73b1a87c4"
+    }
+  },
+  "IsBusiness": false,
+  "isAdmin": false,
+  "serviceDepartment": false,
+  "conservationDepartment": true,
+  "teamName": "toy",
+  "phone": "0527788774",
+  "email": "toy@toy.com",
+  "password": "$2b$10$YUg3m2YHtkAyQkHSUmOVi.6f5QCfb6bAIN5Oqg78pPA8xpLTAZSl2",
+  "createTime": {
+    "$date": "2024-05-07T20:39:01.707Z"
+  },
+  "loginAttempts": 0,
+  "__v": 0,
+  "lockUntil": null
+},
+{
+  "_id": {
+    "$oid": "663aa3851fd83294d99c35b1"
+  },
+  "name": {
+    "first": "toyAgent2",
+    "middle": "",
+    "last": "agent",
+    "_id": {
+      "$oid": "663aa3851fd83294d99c35b2"
+    }
+  },
+  "IsBusiness": false,
+  "isAdmin": false,
+  "serviceDepartment": false,
+  "conservationDepartment": true,
+  "teamName": "toy",
+  "phone": "0524774747",
+  "email": "toy2@gmail.com",
+  "password": "$2b$10$65.otIVun2p7Rwo/33B4ZuZWg9OjlH9dOamKSkuc89ANjk6ExlndS",
+  "createTime": {
+    "$date": "2024-05-07T21:47:44.026Z"
+  },
+  "loginAttempts": 0,
+  "__v": 0,
+  "lockUntil": null
+}]
